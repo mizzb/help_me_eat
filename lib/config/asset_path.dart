@@ -1,0 +1,1 @@
+const String kLogoPath = 'assets/logo.png';
